@@ -8,7 +8,8 @@ const MealSummary = () => {
         Choisis ton plat préféré, ajoute-le au panier et imagine-le arriver chez toi.
       </p>
       <p>
-        Cette application est créée uniquement pour le plaisir des yeux. Aucun livreur n'apportera les plats. En contrepartie, tout est gratuit !
+        Cette application est créée uniquement pour le plaisir des yeux.
+        Aucun livreur n'apportera les plats. En contrepartie, tout est gratuit !
       </p>
     </section>
   );

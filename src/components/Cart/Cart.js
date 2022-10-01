@@ -39,7 +39,7 @@ const Cart = (props) => {
       {cardItems}
       <div className={styles.total}>
         <span>Montant total</span>
-        <span>{context.totalAmount.toFixed(2)}</span>
+        <span>{context.totalAmount.toFixed(2)} €</span>
       </div>
       <div className={styles.actions}>
         <button className={styles['button--alt']} onClick={props.onClose}>Close</button>
