@@ -34,7 +34,7 @@ const MealItemForm = (props) => {
           defaultValue:"1",
         }}
       />
-      <button type='submit'>+ Ajouter au panier</button>
+      <button type='submit'>+ Ajouter</button>
       {!amountIsValid && <p>Choisis une quantité entre 1 et 5</p>}
     </form>
   )
